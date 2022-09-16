@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999946547121",
+    "project_id": "gifu-bb4b5",
+    "storage_bucket": "gifu-bb4b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999946547121:android:8ddfb4465e85f0407e9790",
+        "android_client_info": {
+          "package_name": "com.rixxi.kifu_clothing_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999946547121-87prid1d8q3fnqb2medj9nd83fiujm2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPW7O3Wt8vH6X1FOa4rwLze8FMwB-I0E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999946547121-87prid1d8q3fnqb2medj9nd83fiujm2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
